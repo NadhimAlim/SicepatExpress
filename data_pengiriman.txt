@@ -1,0 +1,6 @@
+Jarak: 23 km, Biaya: Rp. 345000
+Jarak: 2 km, Biaya: Rp. 30000
+Jarak: 3 km, Biaya: Rp. 45000
+Jarak: 3 km, Biaya: Rp. 45000
+Jarak: 2 km, Biaya: Rp. 30000
+Jarak: 2 km, Biaya: Rp. 30000
